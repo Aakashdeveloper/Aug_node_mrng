@@ -1,0 +1,79 @@
+Basic JavaScript
+NPM
+Basic NodeJS(in built)(Os,file,http)
+NodeJS(full Stack App) (Node-EJS-Mongo-Express)
+Third Party Api (Weather Api)
+Redis
+Email With Node(Sendgrid)
+Github
+MongoDb Basic
+Api with NodeJS(Rest)
+DashBoard(Crud)
+Oauth(with github)
+Login/Logout(JWT)
+Node-Es6(.babel)
+OO_NodeJs
+Testing
+NodeJs with postgres
+Pm2
+Heroku
+GraphQl API
+ChatApp
+Production 
+Docker
+Nginx
+
+
+////////////////////////////////////////
+What is NodeJs
+//////////////////////////////
+Single Theard Non Blocking Async I/0
+Event loop base structure
+
+NPM>Node Package Manager
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+JSON> Javascript object notation
+[
+    {
+        name:'john',
+        class:'ui'
+    },
+    {
+        name:'alvin',
+        class:'node'
+    }
+]
+
+>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<
+package.json 
+> Meta data
+> Scripts
+> packages
+
+
+///////////////
+Step to create package.json
+////////////////
+*nodejs must be installed
+> open cmd /terminal
+> go inside the folder where you want to generate
+> npm init
+> Answer all questions
+> type 'yes'
+
+
+////////////////////////
+Package/Dependency/Node_modules
+////////////////////
+Dependency
+dev Dependency
+global Dependency
+
+
+/////////////////////////////
+Step to install package
+///////////////////////////
+> open cmd /terminal
+> go inside the folder where you want to install
+> npm i packagename/ npm install packagename
